@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "DevOps1/DevOps"
+		},
+		{
+			"path": "../FE-AM"
+		},
+		{
+			"path": "../BE-AM"
+		}
+	],
+	"settings": {}
+}
